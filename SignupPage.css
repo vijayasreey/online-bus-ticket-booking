@@ -1,0 +1,18 @@
+.cascading-right {
+  margin-right: -50px;
+}
+
+.maindiv{
+  background-image:url("bus.jpg")
+}
+
+#maindiv{
+  background-image:url("bus.jpg")
+}
+
+
+@media (max-width: 900px) {
+  .cascading-right {
+    margin-right: 0;
+  }
+}
